@@ -1,0 +1,23 @@
+{
+    "log": {
+        "version": "1.2",
+        "creator": {
+            "name": "BrowserMob Proxy",
+            "version": "2.1.4",
+            "comment": ""
+        },
+        "pages": [
+            {
+                "id": "lagou",
+                "startedDateTime": "2021-05-05T14:51:34.894+08:00",
+                "title": "lagou",
+                "pageTimings": {
+                    "comment": ""
+                },
+                "comment": ""
+            }
+        ],
+        "entries": [],
+        "comment": ""
+    }
+}
